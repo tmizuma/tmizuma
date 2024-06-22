@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tmizuma&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmizuma&theme=github?exclude=Velocity+Template+Language,SCSS,CSS,HTML,Jupyter+Notebook)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tmizuma&theme=github?exclude=Velocity%20Template%20Language,SCSS,CSS,HTML,Jupyter%20Notebook)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tmizuma&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tmizuma&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tmizuma&theme=github)
