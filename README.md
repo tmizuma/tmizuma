@@ -6,5 +6,5 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Go/Javascript<br>
-🌱 I’m currently learning Python,Rust and Computer science
+🔭 I’m currently working on Go/JavaScript <br>
+🌱 I’m currently learning Python,Rust and Computer Science
